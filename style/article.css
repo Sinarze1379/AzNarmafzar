@@ -1,0 +1,63 @@
+﻿*{
+    margin:0;
+}
+
+.article-main{
+    
+    width:100%;
+}
+
+.article-body{
+ 
+    height:800px;
+    width:60%;
+    margin:20px auto;
+    position:relative;
+    top:50px;
+}
+
+.article-pic{
+    
+    width:80%;
+    height:400px;
+    margin:10px auto;
+}
+
+.article-pic > img{
+    height:100%;
+    width:100%;
+}
+
+.article-title{
+    margin:30px auto;
+    text-align:center;
+        color:#3E0061;
+}
+.text-holder{
+    width:80%;
+    margin:10px auto;
+}
+.article-text{
+    direction:rtl;
+    line-height:30px;
+   
+   font-family: 'iranyekanwebmediumfanum';
+      color:#606060;
+}
+
+.article-exinfo{
+ 
+    width:80%;
+    margin:30px auto;
+    display:flex;
+    justify-content:space-between;
+}
+
+.article-writer{
+     color: #FEA000;
+     font-size:15px;
+}
+.article-date{
+        color:#3E0061;
+        font-size:15px;
+}
